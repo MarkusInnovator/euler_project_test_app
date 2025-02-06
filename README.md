@@ -1,1 +1,1 @@
-# euler_project_test_app
+# Project_euler_python
